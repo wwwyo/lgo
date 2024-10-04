@@ -1,10 +1,10 @@
 package adder
 
 import (
+	"fmt"
+	"os"
 	"testing"
 	"time"
-	"os"
-	"fmt"
 )
 
 var testTime time.Time //liststart
